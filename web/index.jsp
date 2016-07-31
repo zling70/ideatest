@@ -13,7 +13,7 @@
   <body>
   <%
     String hello="大家好，这个项目和页面是用来测试idea工具及github的使用";
-    out.println("<h1>"+hello+"</h1>");
+    out.println("<h1>"+hello+",当前项目使用了git版本控制工具</h1>");
   %>
   </body>
 </html>
